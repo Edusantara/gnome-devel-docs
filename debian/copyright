@@ -1,0 +1,65 @@
+This package was first debianized by Sebastian Dröge <slomo@debian.org> on
+Mon,  1 Oct 2007 09:46:13 +0200.
+
+It was downloaded from: http://ftp.gnome.org/pub/GNOME/sources/gnome-devel-docs/
+
+Upstream Author:
+	Vincent Alexander <vpalexander@svn.gnome.org>
+	Shaun McCance  <shaunm@gnome.org>
+
+Copyright:
+
+	For accessibility-devel-guide/*:
+	Copyright © 2008 Vincent Alexander
+	Copyright © 2001-2002 Calum Benson, Brian Cameron, Bill Haneman, Padraig O'Briain, Sharon Snider
+
+	For hig/*:
+	Copyright © 2002-2008 Calum Benson
+	                        Adam Elman
+				Seth Nickell
+				colin z robertson
+
+	For integration-guide/*:
+	Copyright © 2005, 2006 Rosanna Yuen
+	                         Federico Mena-Quintero
+				 Mike Hearn
+	
+	For optimization-guide/*:
+	Copyright © 2004-2005 Callum McKenzie
+	Copyright © 2004-2005 Robert Love
+
+	For platform-demos/*:
+	Copyright © 2010-2011 Shaun McCance
+	Copyright © 2010-2011 Johannes Schmid
+	Copyright © 2010-2011 Daniel G. Siegel
+	Copyright © 2011 P. F. Chimento
+	Copyright © 2011 Chris Kühl
+	Copyright © 2011 John (J5) Palmieri
+
+License:
+
+  Permission is granted to copy, distribute and/or modify this
+  document under the terms of the GNU Free Documentation
+  License (GFDL), Version 1.1 or any later version published
+  by the Free Software Foundation with no Invariant Sections,
+  no Front-Cover Texts, and no Back-Cover Texts.
+
+ The complete text of the GNU Free Documentation License can be found in
+ /usr/share/common-licenses/GFDL.
+
+	For platform-overview/*:
+	
+	Copyright © 2005, 2006, 2008, 2011 Shaun McCance
+	Copyright © 2011 Germán Póo-Caamaño
+	Copyright © 2011 Zeeshan Ali (Khattak)
+
+Creative Commons Attribution Share Alike 3.0 License:
+
+	This work is licenced under the Creative Commons Attribution-Share Alike 3.0
+	United States License. To view a copy of this license, visit
+	http://creativecommons.org/licenses/by/3.0/ or send a letter to Creative
+	Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.
+
+	As a special exception, the copyright holders give you permission to copy,
+	modify, and distribute the example code contained in this document under the
+	terms of your choosing, without restriction.
